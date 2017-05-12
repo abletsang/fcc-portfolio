@@ -56,10 +56,28 @@ body {
 	padding-left: 30px;
 }
 
+.asap {
+	padding-top: 15px;
+}
+
+.solicit {
+	padding-top: 95px;
+}
+
+.touch,
+.asap,
+.solicit {
+	padding-left: 30px;
+}
+
 
 .social {
 	background-color: #9eb4d8;
 	padding: 50px 0;
+}
+
+.fa {
+	font-size: 36px;
 }
 
 /* FOOTER ------------------------------------------------- */
