@@ -48,6 +48,14 @@ body {
 	margin-bottom: 0px;
 }
 
+.prow {
+	padding-top: 30px;
+}
+
+iframe {
+	width: 90%;
+}
+
 .contact {
 	padding-bottom: 35px;
 }
