@@ -1,5 +1,15 @@
 /* nav ------------------------------------------------------------ */
 
+.nav {
+	background-color: #2D2D2D;
+	color: white;
+	height: 13%;
+}
+
+.navbar-header {
+	padding-top: 15px;
+}
+
 .header-link {
 	padding-right: 10px;
 	text-align: right;
